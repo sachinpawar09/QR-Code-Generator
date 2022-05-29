@@ -26,8 +26,4 @@ Made with `python`
 - Run `python qrGenerator.py`
 
 
-## 🤖 Author
-[Vivek](https://github.com/vivekthedev)
 
-Any Questions?
-[Twitter](https://twitter.com/vivekthedev)
